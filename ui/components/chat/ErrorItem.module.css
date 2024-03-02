@@ -1,0 +1,10 @@
+.errorWrapper{
+    color: crimson;
+    display: flex;
+    flex-direction: row;
+    gap: rem(12px);
+}
+
+.errorWrapper p{
+    margin: 0;
+}

@@ -1,0 +1,12 @@
+PyYAML==5.4.1
+numpy==1.25.0
+pydantic
+fastapi
+starlette
+pyjwt
+uvicorn
+requests
+bcrypt
+tqdm
+python-dotenv
+openai

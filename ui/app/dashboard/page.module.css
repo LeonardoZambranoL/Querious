@@ -1,0 +1,36 @@
+.title{
+    margin: 0;
+}
+
+.logo{
+    width: 200px;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.gridContainer {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: rem(12px);
+    padding: rem(12px) 0;
+    max-width: rem(1000px);
+}
+
+.wrapper{
+    padding: rem(12px);
+}
+
+.loadingWrapper{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+}

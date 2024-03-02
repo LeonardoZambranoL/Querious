@@ -1,0 +1,13 @@
+.chat{
+    
+    margin: rem(12px) 0;
+}
+
+
+.content{
+    margin: 0;
+}
+
+.highlight{
+    color: var(--mantine-primary-color-light-color);
+}

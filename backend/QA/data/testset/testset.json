@@ -1,0 +1,84 @@
+{
+  "questions": [
+    {
+      "question": "What is the Linux version mentioned in the log?",
+      "label": " Line: 1"
+    },
+    {
+      "question": "What is the boot command line used?",
+      "label": " Line: 2"
+    },
+    {
+      "question": "When was the service 'Load Kernel Module configfs' started?",
+      "label": " Line: 841"
+    },
+    {
+      "question": "What line begins the BIOS-provided physical RAM map description?",
+      "label": " Line: 9"
+    },
+    {
+      "question": "What XSAVE feature is mentioned as being supported?",
+      "label": " Line: 3"
+    },
+    {
+      "question": "At what time did the system kernel log its first message?",
+      "label": " Line: 1"
+    },
+    {
+      "question": "What is the network activity on eth0 mentioned in the log?",
+      "label": " Line: 647"
+    },
+    {
+      "question": "What multicast group did the avahi-daemon join on the interface 'eth_external.IPv4'?",
+      "label": "Line 2088"
+    },
+    {
+      "question": "How often has the mrt.smartmon-collector.service failed with the result 'start-limit-hit’?",
+      "label": "Line 16291, 16304, 19264"
+    },
+    {
+      "question": "When did the systemd[1] started OpenSSH Per-Connection Daemon on the address of 172.25.232.145:40488?",
+      "label": "Line 27928"
+    },
+    {
+      "question": "When were the root privileges removed for user avahi? Lin",
+      "label": ": 1451"
+    },
+    {
+      "question": "When was the session c26 of User root stopped? ",
+      "label": "Line 28164, 28347"
+    },
+    {
+      "question": "On which user was MRT Swap enabler stopped on Nov 10 05:49:04?",
+      "label": "Line 28240"
+    },
+    {
+      "question": "How often was MRT WebGUI running stopped?",
+      "label": "Line 28253-28544"
+    },
+    {
+      "question": "On which paths were binding mount volatile stopped?",
+      "label": "Line 28536-28601"
+    },
+    {
+      "question": "What was the version of Python when thread periodic-notebook-state-check was stopped?",
+      "label": "Line 28850"
+    },
+    {
+      "question": "What is the kernel message about: 'BIOS-e820: [mem 0x000000000a20...’?",
+      "label": "Line 15"
+    },
+    {
+      "question": "What USB-related event is mentioned in the log?",
+      "label": "Line: 454"
+    },
+    {
+      "question": "What action is mentioned for user xuser in the log?",
+      "label": "Line: 1874"
+    },
+    {
+      "question": "What is detailed in the warning message?",
+      "label": "Line: 2344"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+[
+    {
+      "logId": "a5bfa10f-27e2-45ec-b9f4-c2c32f7c4c0e",
+      "timestamp": 1700260617547,
+      "type": "query",
+      "subtype": "qa",
+      "content": {
+        "question": "What is the capital of France?"
+      }
+    },
+    {
+      "logId": "a5bfa10f-27e2-45ec-b9f4-c2c32f7c4c0e",
+      "timestamp": 1700260617547,
+      "type": "response",
+      "subtype": "qa",
+      "content": {
+        "answer": "In this method, we are going to use the keypress event to submit a form on enter button using jQuery. The keypress event is triggered when a key is pressed down while the focus is on an element and to submit the form, we have to check if the key code of the pressed key is equal to the code for the Enter key (which is 13). If it is correct then, we can trigger the form's submit method.",
+        "lines": [
+          {
+            "lineId": 12,
+            "content": "LOG WARN 12124356 TEST LINUX KERNEL"
+          },
+          {
+            "lineId": 19,
+            "content": "LOG ERROR 121123356 TEST LINUX KERNEL"
+          }
+        ]
+      }
+    },
+    {
+      "logId": "a5bfa10f-27e2-45ec-b9f4-c2c32f7c4c0e",
+      "timestamp": 1700260617547,
+      "type": "query",
+      "subtype": "search",
+      "content": {
+        "prompt": "Search the most segnificant error."
+      }
+    },
+    {
+      "logId": "a5bfa10f-27e2-45ec-b9f4-c2c32f7c4c0e",
+      "timestamp": 1700260617547,
+      "type": "response",
+      "subtype": "search",
+      "content": {
+        "lines": [
+          {
+            "lineId": 12,
+            "content": "LOG WARN 12124356 TEST LINUX KERNEL"
+          },
+          {
+            "lineId": 19,
+            "content": "LOG ERROR 121123356 TEST LINUX KERNEL"
+          }
+        ]
+      }
+    },
+    {
+      "logId": "a5bfa10f-27e2-45ec-b9f4-c2c32f7c4c0e",
+      "timestamp": 1700260617547,
+      "type": "query",
+      "subtype": "summary",
+      "content": {
+        "prompt": "What are the errors?",
+        "timeFrom": 1695629100000,
+        "timeTo": 1695753660000,
+        "lineFrom": 50,
+        "lineTo": 100
+      }
+    },
+    {
+      "logId": "a5bfa10f-27e2-45ec-b9f4-c2c32f7c4c0e",
+      "timestamp": 1700260617547,
+      "type": "response",
+      "subtype": "summary",
+      "content": {
+        "summary": "The average distance from the Earth to the moon is about 238,855 miles (384,400 kilometers)."
+      }
+    }
+  ]
+  

@@ -1,0 +1,48 @@
+.label {
+    top: 0;
+    height: rem(28px);
+    line-height: rem(28px);
+    width: rem(34px);
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    background-color: transparent;
+}
+  
+.thumb {
+    background-color: var(--mantine-color-blue-6);
+    height: rem(28px);
+    min-width: rem(48px);
+    border: none;
+}
+
+.slider{
+    margin: rem(12px);
+}
+
+.summaryInput{
+    flex: 1;
+    box-sizing: border-box;
+    margin-top: 0;
+    position: relative;
+    right: 0;
+    max-width: rem(800px);
+}
+
+
+
+.timeWapper{
+    display: flex;
+    flex-direction: row;
+    gap: rem(12px);
+}
+
+.input{
+    flex: 1;
+}
+
+
+
+

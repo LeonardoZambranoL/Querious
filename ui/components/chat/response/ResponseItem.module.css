@@ -1,0 +1,11 @@
+.responseWrapper{
+    display: flex;
+    flex-direction: row;
+    gap: rem(12px);
+    max-width: 100%;
+    overflow-x: scroll;
+}
+
+.responseWrapper p {
+    margin: 0;
+}

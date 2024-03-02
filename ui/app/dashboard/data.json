@@ -1,0 +1,35 @@
+[
+  {
+      "logId": "8c535ab7-f27d-41ec-9263-ab2b6be54473",
+      "fileName": "test.log",
+      "description": "Crash XYZ",
+      "uploadTime": 1700260617547,
+      "firstLogTime": 1700160617547,
+      "lastLogTime": 1700150617547,
+      "isProcessed": true,
+      "lines": 20000,
+      "size": "25.2 MB"
+  },
+  {
+      "logId": "2ef8890a-85d4-4a29-b9d6-cc78345db8e0",
+      "fileName": "debug.log",
+      "description": "Debug Information",
+      "uploadTime": 1700260617547,
+      "firstLogTime": 1700160617547,
+      "lastLogTime": 1700150617547,
+      "isProcessed": true,
+      "lines": 15000,
+      "size": "12.6 MB"
+  },
+  {
+      "logId": "7fd30857-d346-4c0e-ba7c-99f122c4f389",
+      "fileName": "access.log",
+      "description": "Website Access Logs",
+      "uploadTime": 1700260617547,
+      "firstLogTime": 1700160617547,
+      "lastLogTime": 1700150617547,
+      "isProcessed": true,
+      "lines": 50000,
+      "size": "600 KB"
+  }
+]

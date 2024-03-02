@@ -1,0 +1,12 @@
+.line{
+    background-color: var(--mantine-color-gray-light);
+    border-radius: rem(6px);
+    margin-bottom:rem(6px);
+    padding: rem(6px) rem(12px);
+    cursor: pointer;
+    font-size: 0.7rem
+}
+
+.line:hover{
+    background-color: var(--mantine-color-gray-light-hover);
+}

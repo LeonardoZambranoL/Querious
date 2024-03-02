@@ -1,0 +1,13 @@
+.highlighted{
+    color: var(--mantine-primary-color-light-color);
+}
+
+.queryWrapper{
+    display: flex;
+    flex-direction: row;
+    gap: rem(12px);
+}
+
+.queryWrapper p {
+    margin: 0;
+}
