@@ -1,5 +1,6 @@
 # Querious: Logfile Analysis, Summary, and Chat
 
+In colaboration with https://github.com/mohammad-al-zoubi, Ali Gharaee & https://github.com/seb1ast8ian0
 
 [//]: # (![QA Mode]&#40;images/logo.png&#41;)
 <img src="images/logo.png" alt="Reduced Image" width="85%">
